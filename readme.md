@@ -1,1 +1,1 @@
-following https://www.learncpp.com/'s tutorials
+following https://www.learncpp.com/ tutorials
